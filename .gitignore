@@ -1,0 +1,12 @@
+
+# ignore the public directory, because 
+# every running of hugo will change content
+# of this directory.
+public/
+
+# the theme directory contains the theme
+# file of hugo blog.
+# if ignore the theme, the command:
+# -- hugo server --
+# would unable running.
+# theme/
